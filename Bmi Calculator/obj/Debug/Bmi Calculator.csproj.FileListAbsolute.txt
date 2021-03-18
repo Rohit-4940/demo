@@ -1,0 +1,7 @@
+D:\advanced software\Bmi Calculator\Bmi Calculator\bin\Debug\Bmi Calculator.exe.config
+D:\advanced software\Bmi Calculator\Bmi Calculator\bin\Debug\Bmi Calculator.exe
+D:\advanced software\Bmi Calculator\Bmi Calculator\bin\Debug\Bmi Calculator.pdb
+D:\advanced software\Bmi Calculator\Bmi Calculator\obj\Debug\Bmi Calculator.csprojAssemblyReference.cache
+D:\advanced software\Bmi Calculator\Bmi Calculator\obj\Debug\Bmi Calculator.csproj.CoreCompileInputs.cache
+D:\advanced software\Bmi Calculator\Bmi Calculator\obj\Debug\Bmi Calculator.exe
+D:\advanced software\Bmi Calculator\Bmi Calculator\obj\Debug\Bmi Calculator.pdb
